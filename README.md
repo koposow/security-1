@@ -57,10 +57,13 @@
 - 48314/tcp open  unknown
 - 53212/tcp open  unknown
 
-В установленных версиях [ПО](/files/exploites.txt) нашел только одну уязвимость:
+В установленных версиях [ПО](/files/nmapsV.txt) нашел уязвимости:
 
 - [vsftpd 2.3.4 - Backdoor Command Execution](https://www.exploit-db.com/exploits/49757)
-- [не уверен, но нашел вот это ProFTPd IAC 1.3.x](https://www.exploit-db.com/exploits/15449)
+- [UnrealIRCd 3.2.8.1 - Backdoor Command Execution (Metasploit)](https://www.exploit-db.com/exploits/16922)
+- [не нашел на exploit db, но много информации просто по поиску версии Apache httpd 2.2.8 ((Ubuntu) DAV/2)](https://spy-soft.net/hacking-http-port-80/)
+- [Samba (порты 139 и 445): Уязвимости в Samba smbd 3.X могут привести к несанкционированному доступу к файлам и ресурсам на сервере.](https://www.exploit-db.com/exploits/42060)
+- [rpcbind](https://www.exploit-db.com/exploits/26887) 
 
 
 ----------------------------
