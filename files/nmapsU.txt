@@ -1,0 +1,15 @@
+
+Starting Nmap 4.53 ( http://insecure.org ) at 2024-02-02 06:14 EST
+Interesting ports on 192.168.1.76:
+Not shown: 1480 closed ports
+PORT     STATE         SERVICE
+53/udp   open|filtered domain
+68/udp   open|filtered dhcpc
+69/udp   open|filtered tftp
+111/udp  open|filtered rpcbind
+137/udp  open|filtered netbios-ns
+138/udp  open|filtered netbios-dgm
+1019/udp open|filtered unknown
+2049/udp open|filtered nfs
+
+Nmap done: 1 IP address (1 host up) scanned in 1.896 seconds
